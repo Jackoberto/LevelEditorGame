@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f6f6afe3-681e-45c3-8b2e-520dda76aae5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BBE33B58-169F-441E-B927-09FEF44286C0/41/b79c0e83/Tilemap.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FE84F4A7-54DA-4A6B-B64F-CA409D40938A/a4/53f8071b/Gradient.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ScaleRect.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FE84F4A7-54DA-4A6B-B64F-CA409D40938A/e0/eda55080/Application.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FE84F4A7-54DA-4A6B-B64F-CA409D40938A/3e/da5e0eb1/Camera.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FE84F4A7-54DA-4A6B-B64F-CA409D40938A/c6/00391e42/Vector4.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ResolutionRelation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BBE33B58-169F-441E-B927-09FEF44286C0/e7/d8d18231/TileBase.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/63DD8BF9-8CFA-4BA9-85AF-735EF1A56BA9/e4/d07a9347/Single.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../NeonARPG/Assets/Scripts/Unit/Unit.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FE84F4A7-54DA-4A6B-B64F-CA409D40938A/0e/9a2bef73/WindowSizeChanged.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/63DD8BF9-8CFA-4BA9-85AF-735EF1A56BA9/75/d2542408/FileSystemInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../ImInPR/Assets/Scripts/ConfirmationPanel.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UserTileData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ConfirmationPanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FE84F4A7-54DA-4A6B-B64F-CA409D40938A/bf/aac8c296/Color.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SerializableColor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9577AC7A-62EF-4317-9789-031239BA8798/37/64c83ab0/String.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FE84F4A7-54DA-4A6B-B64F-CA409D40938A/ec/bdb6a96d/Screen.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D3AB9384-C036-45AC-BB04-F7DA706BB74F/0c/e6bd2328/IPointerClickHandler.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BBE33B58-169F-441E-B927-09FEF44286C0/d7/f97b3270/Tile.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FE84F4A7-54DA-4A6B-B64F-CA409D40938A/8e/db7b7bcb/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/63DD8BF9-8CFA-4BA9-85AF-735EF1A56BA9/22/1a106110/String.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/IL/BBE33B58-169F-441E-B927-09FEF44286C0/f8/c99b7aaf/0200000A.il" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0B76D74C-9007-4047-ADC3-E5DBD5D3F1DE/69/a3085dc0/Enumerable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MainMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FE84F4A7-54DA-4A6B-B64F-CA409D40938A/69/a80996b8/UnityEvent.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../Program Files/Unity/Hub/Editor/2020.1.15f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/EventData/PointerEventData.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/MyTile.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Color.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SerializiableColor.cs" />
+        <option value="$PROJECT_DIR$/Assets/ColorGradientPicker/Scripts/GradientPicker.cs" />
+        <option value="$PROJECT_DIR$/Assets/ColorGradientPicker/Scripts/ColorPicker.cs" />
+        <option value="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BBE33B58-169F-441E-B927-09FEF44286C0/d7/f97b3270/Tile.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TileSelectButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EditorCamera.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ResolutionRelation.cs" />
+        <option value="$PROJECT_DIR$/Assets/ColorGradientPicker/Scripts/DragWindowCntrl.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ScaleRect.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MapData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UserTileData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SerializableColor.cs" />
+        <option value="$PROJECT_DIR$/Assets/SetColorToBackGround.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MainMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InstantiateButtons.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SaveSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Editor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ConfirmationPanel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SaveEdit.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lr2EdX8tfzRGJykZtilwHpiQEO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34995976" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30008045" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6f6afe3-681e-45c3-8b2e-520dda76aae5" name="Default Changelist" comment="" />
+      <created>1608340779071</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608340779071</updated>
+      <workItem from="1608340784059" duration="6803000" />
+      <workItem from="1608381155676" duration="2223000" />
+      <workItem from="1609178471639" duration="29027000" />
+      <workItem from="1609351705253" duration="5086000" />
+      <workItem from="1609368122265" duration="1581000" />
+      <workItem from="1609431078596" duration="4936000" />
+      <workItem from="1609601038604" duration="27946000" />
+      <workItem from="1609879995186" duration="611000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1035" y="404" key="#xdebugger.evaluate" timestamp="1609628953445">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1035" y="404" key="#xdebugger.evaluate/0.0.2560.1400/-1920.349.1920.1040@0.0.2560.1400" timestamp="1609628953445" />
+    <state x="1038" y="560" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1" timestamp="1609192028543">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1038" y="560" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1/0.0.2560.1400/-1920.349.1920.1040@0.0.2560.1400" timestamp="1609192028543" />
+    <state width="2517" height="519" key="GridCell.Tab.0.bottom" timestamp="1609638359794">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="519" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1920.349.1920.1040@0.0.2560.1400" timestamp="1609638359794" />
+    <state width="2517" height="519" key="GridCell.Tab.0.center" timestamp="1609638359794">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="519" key="GridCell.Tab.0.center/0.0.2560.1400/-1920.349.1920.1040@0.0.2560.1400" timestamp="1609638359794" />
+    <state width="2517" height="519" key="GridCell.Tab.0.left" timestamp="1609638359793">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="519" key="GridCell.Tab.0.left/0.0.2560.1400/-1920.349.1920.1040@0.0.2560.1400" timestamp="1609638359793" />
+    <state width="2517" height="519" key="GridCell.Tab.0.right" timestamp="1609638359794">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="519" key="GridCell.Tab.0.right/0.0.2560.1400/-1920.349.1920.1040@0.0.2560.1400" timestamp="1609638359794" />
+    <state width="2517" height="519" key="GridCell.Tab.1.bottom" timestamp="1609638359794">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="519" key="GridCell.Tab.1.bottom/0.0.2560.1400/-1920.349.1920.1040@0.0.2560.1400" timestamp="1609638359794" />
+    <state width="2517" height="519" key="GridCell.Tab.1.center" timestamp="1609638359794">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="519" key="GridCell.Tab.1.center/0.0.2560.1400/-1920.349.1920.1040@0.0.2560.1400" timestamp="1609638359794" />
+    <state width="2517" height="519" key="GridCell.Tab.1.left" timestamp="1609638359794">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="519" key="GridCell.Tab.1.left/0.0.2560.1400/-1920.349.1920.1040@0.0.2560.1400" timestamp="1609638359794" />
+    <state width="2517" height="519" key="GridCell.Tab.1.right" timestamp="1609638359794">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="519" key="GridCell.Tab.1.right/0.0.2560.1400/-1920.349.1920.1040@0.0.2560.1400" timestamp="1609638359794" />
+    <state width="2517" height="519" key="GridCell.Tab.2.bottom" timestamp="1609638359795">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="519" key="GridCell.Tab.2.bottom/0.0.2560.1400/-1920.349.1920.1040@0.0.2560.1400" timestamp="1609638359795" />
+    <state width="2517" height="519" key="GridCell.Tab.2.center" timestamp="1609638359795">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="519" key="GridCell.Tab.2.center/0.0.2560.1400/-1920.349.1920.1040@0.0.2560.1400" timestamp="1609638359795" />
+    <state width="2517" height="519" key="GridCell.Tab.2.left" timestamp="1609638359794">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="519" key="GridCell.Tab.2.left/0.0.2560.1400/-1920.349.1920.1040@0.0.2560.1400" timestamp="1609638359794" />
+    <state width="2517" height="519" key="GridCell.Tab.2.right" timestamp="1609638359795">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="519" key="GridCell.Tab.2.right/0.0.2560.1400/-1920.349.1920.1040@0.0.2560.1400" timestamp="1609638359795" />
+    <state width="2517" height="519" key="GridCell.Tab.3.bottom" timestamp="1609638359795">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="519" key="GridCell.Tab.3.bottom/0.0.2560.1400/-1920.349.1920.1040@0.0.2560.1400" timestamp="1609638359795" />
+    <state width="2517" height="519" key="GridCell.Tab.3.center" timestamp="1609638359795">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="519" key="GridCell.Tab.3.center/0.0.2560.1400/-1920.349.1920.1040@0.0.2560.1400" timestamp="1609638359795" />
+    <state width="2517" height="519" key="GridCell.Tab.3.left" timestamp="1609638359795">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="519" key="GridCell.Tab.3.left/0.0.2560.1400/-1920.349.1920.1040@0.0.2560.1400" timestamp="1609638359795" />
+    <state width="2517" height="519" key="GridCell.Tab.3.right" timestamp="1609638359795">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="519" key="GridCell.Tab.3.right/0.0.2560.1400/-1920.349.1920.1040@0.0.2560.1400" timestamp="1609638359795" />
+    <state x="1047" y="424" key="RiderGenerateDialog" timestamp="1609197272743">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1047" y="424" key="RiderGenerateDialog/0.0.2560.1400/-1920.349.1920.1040@0.0.2560.1400" timestamp="1609197272743" />
+    <state x="92" y="92" width="2376" height="1216" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1609633613288">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="92" y="92" width="2376" height="1216" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.2560.1400/-1920.349.1920.1040@0.0.2560.1400" timestamp="1609633613288" />
+    <state x="92" y="92" width="2376" height="1216" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1609189316658">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="92" y="92" width="2376" height="1216" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.0.2560.1400/-1920.349.1920.1040@0.0.2560.1400" timestamp="1609189316658" />
+    <state x="878" y="447" width="672" height="678" key="search.everywhere.popup" timestamp="1609196596104">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="878" y="447" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400/-1920.349.1920.1040@0.0.2560.1400" timestamp="1609196596104" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/InstantiateButtons.cs</url>
+          <line>44</line>
+          <properties documentPath="C:\Users\Jack Karlsson\Documents\GitHub\LevelEditorGame\Assets\Scripts\InstantiateButtons.cs" initialLine="44">
+            <startOffsets>
+              <option value="1049" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1050" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
