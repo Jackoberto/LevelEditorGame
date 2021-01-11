@@ -12,8 +12,16 @@ public static class SaveSystem
 {
     public static string directoryPath = Application.persistentDataPath + "/Maps/";
     private static DirectoryInfo directorySelected = new DirectoryInfo(directoryPath);
+    public static bool NoMapDirectory => !Directory.Exists(directoryPath);
+
+    public static void CreateMapFolder()
+    {
+        Directory.CreateDirectory(directoryPath);
+    }
     public static void SaveMap(SaveEdit map, UserTileData tileData)
     {
+        if (NoMapDirectory)
+            CreateMapFolder();
         var path = directoryPath + map.path +".json";
         var sw = new StreamWriter(path);
         var data = JsonUtility.ToJson(new MapData(map,tileData));
@@ -46,6 +54,11 @@ public static class SaveSystem
 
     public static string[] GetAllMapNames()
     {
+        if (NoMapDirectory)
+        {
+            CreateMapFolder();
+            return new string[0];
+        }
         var paths = Directory.GetFiles(directoryPath);
         var pathsThatEndsWithNumber = new List<string>();
         for (var i = 0; i < paths.Length; i++)

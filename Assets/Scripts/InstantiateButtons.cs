@@ -27,6 +27,12 @@ public class InstantiateButtons : MonoBehaviour
     private void DoInstantiateButtons()
     {
         var maps = SaveSystem.GetAllMapNames();
+        if (maps.Length == 0)
+        {
+            var instance = Instantiate(prefab, transform);
+            instance.GetComponentInChildren<Text>().text = "You Have No Saved Maps In The Map Folder";
+            instance.GetComponent<Button>().onClick.AddListener(delegate { GetComponentInParent<ScrollRect>().gameObject.SetActive(false); });
+        }
         foreach (var map in maps)
         {
             var instance= Instantiate(prefab, transform);
@@ -38,6 +44,8 @@ public class InstantiateButtons : MonoBehaviour
 
     public void OpenSaveFolder()
     {
+        if (SaveSystem.NoMapDirectory)
+            SaveSystem.CreateMapFolder();
         SaveEdit.OpenSaveFolder();
     }
 
