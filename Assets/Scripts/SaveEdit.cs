@@ -94,6 +94,6 @@ public class SaveEdit : MonoBehaviour {
 
     private void LoadMainMenu()
     {
-        SceneManager.LoadScene("Load");
+        SceneManager.LoadScene("MainMenu");
     }
 }

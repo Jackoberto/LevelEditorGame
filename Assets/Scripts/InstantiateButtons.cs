@@ -21,7 +21,7 @@ public class InstantiateButtons : MonoBehaviour
     private static void LoadMap(string path)
     {
         SaveEdit.pathToLoad = path;
-        SceneManager.LoadScene("Main");
+        SceneManager.LoadScene("Editor");
     }
 
     private void DoInstantiateButtons()

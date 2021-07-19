@@ -14,6 +14,6 @@ public class MainMenu : MonoBehaviour
 
     public void NewMap()
     {
-        SceneManager.LoadScene("Main");
+        SceneManager.LoadScene("Editor");
     }
 }
